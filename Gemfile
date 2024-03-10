@@ -31,3 +31,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Validate HTML output
 gem 'html-proofer'
+
+
+gem "webrick", "~> 1.7"
+gem "json", "~> 2.5.1"
+
